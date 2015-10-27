@@ -1,3 +1,6 @@
+#Author Jasmit Tarang
+#Original commands from exploitees.rs
+#Visit craportech.com
 #To reprogram firmware image with devkeys
 /usr/share/vboot/bin/make_dev_firmware.sh
 
